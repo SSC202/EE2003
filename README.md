@@ -6,3 +6,13 @@
   <img alt="学分 2" src="https://img.shields.io/badge/%E5%AD%A6%E5%88%86-2-moccasin">
 </figure>
 </div>
+
+## 1. 授课教师
+
+- 张弦
+
+## 2. 学习和备考建议
+
+老师讲的很好，备考时主要复习PPT，作业题目和MOOC题目。
+
+MOOC尽量少丢分，不划算。
